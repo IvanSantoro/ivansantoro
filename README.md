@@ -1,4 +1,12 @@
 ## Hi there 👋
+#Hello
+##Mi nombre es Iván
+
+###Es mi primer curso de Java de Programación
+
+Probando códigos
+
+Voy a agregar una imagen: https://ingenieriadesoftware.es/wp-content/uploads/2023/12/besser-bot-framework-cover-1-627x376.jpg
 
 <!--
 **IvanSantoro/ivansantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
